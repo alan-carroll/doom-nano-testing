@@ -669,7 +669,7 @@ function is a convenience wrapper used by `describe-package-1'."
     (set-face 'helm-selection                '(nano-face-strong nano-face-subtle))
     (set-face 'helm-match                                       'nano-face-strong)
     (set-face 'helm-source-header                              'nano-face-salient)
-    (set-face 'helm-swoop-target-line-face   '(nano-face-strong nano-face-subtle))
+    ;(set-face 'helm-swoop-target-line-face   '(nano-face-strong nano-face-subtle))
     (set-face 'helm-visible-mark                                'nano-face-strong)
     (set-face 'helm-moccur-buffer                               'nano-face-strong)
     (set-face 'helm-ff-file                                      'nano-face-faded)
